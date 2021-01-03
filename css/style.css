@@ -1,0 +1,19 @@
+body{
+    font-family: 'Work Sans', sans-serif;
+}
+.name-highlight{
+    color:#eb6b03;
+}
+h1{
+    font-size: 50px;
+}
+.half-width{
+    width: 35%;
+    float:left;
+    margin-left: 3%;
+    padding-left: 2%;
+
+}
+.half-width img{
+    width: 100%;
+}
