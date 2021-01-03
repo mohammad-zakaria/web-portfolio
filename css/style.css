@@ -1,4 +1,5 @@
 body{
+    margin: 0;
     font-family: 'Work Sans', sans-serif;
 }
 .name-highlight{
@@ -16,4 +17,19 @@ h1{
 }
 .half-width img{
     width: 100%;
+}
+.top-banner{
+    background-image: url("../images/top-banner.png");
+}
+    
+section{
+    height: 400px;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(lightSalmon, tomato);
+    padding: 10px 20px;
+    color:rgba(19, 0, 0, 0.863);
+    border-radius: 5px;
+    font-weight: 700;
 }
